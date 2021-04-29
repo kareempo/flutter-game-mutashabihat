@@ -1,0 +1,4 @@
+#Wed Apr 28 01:50:22 EET 2021
+base.0=/media/kareem/MEDIA/PROJECTS/DART/new/equal/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
